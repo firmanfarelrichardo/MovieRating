@@ -1,26 +1,8 @@
-# Twitter Clone
+# MovieRating
 
 ## Overview
 
 This is a MERN project called Twitter clone built to demonstrate a basic social media application. The application allows users to register, log in, post tweets, follow other users, and like tweets. The frontend is built with React, and the backend is powered by Node.js and express. The project is designed to be a learning tool for web development fundamentals.
-
-
-## Screenshots
-
-### Home Page
-![Home Page](https://github.com/user-attachments/assets/4105a84d-7be9-49a3-8b3d-f6f735088096)
-
-### Login Page
-![Login Page](https://github.com/user-attachments/assets/64ff433a-3ae1-44ea-b349-3554c3a7bfb8)
-
-### Signup Page
-![Signup Page](https://github.com/user-attachments/assets/07c4b041-b5b7-4a6d-a29c-57f9f2e8c366)
-
-### Notifications Page
-![Notifications Page](https://github.com/user-attachments/assets/94275a11-773e-48b5-876d-27eea0bf6394)
-
-### Profile Page
-![Profile Page](https://github.com/user-attachments/assets/ad305ab4-3214-4468-acc2-7d9358e43dd1)
 
 ## Features
 
